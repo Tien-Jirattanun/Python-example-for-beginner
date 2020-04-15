@@ -15,5 +15,5 @@ def create_button(id, color = '#ffffff', text = 'Button', size = 16):  #Keyword 
     print('Size: %d px' % size);
     print();
 
-z = lambda x,y : x+y;
+z = lambda x,y : x+y;       #lambda function
 print(z(3,5));
